@@ -1,4 +1,4 @@
-# yii2-emojionearea
+# yii2-emojionearea  
 Yii2 widget for EmojiOne Area  
 Fixed asset  
 Base library: https://github.com/mervick/emojionearea  
