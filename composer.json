@@ -1,5 +1,5 @@
 {
-    "name": "mervick/yii2-emojionearea",
+    "name": "darkdrim/yii2-emojionearea",
     "description": "Yii2 widget for emojionearea",
     "type": "yii2-extension",
     "authors": [
@@ -16,9 +16,9 @@
     ],
     "license": "MIT",
     "support": {
-        "source": "https://github.com/mervick/yii2-emojionearea"
+        "source": "https://github.com/darkdrim/yii2-emojionearea"
     },
-    "homepage": "https://github.com/mervick/yii2-emojionearea",
+    "homepage": "https://github.com/darkdrim/yii2-emojionearea",
     "require": {
         "php": ">=5.4.0",
         "yiisoft/yii2": "*",
