@@ -1,10 +1,10 @@
 <?php
 
-namespace mervick\emojionearea;
+namespace darkdrim\emojionearea;
 
 /**
  * Class EmojiOneAsset
- * @package mervick\emojionearea
+ * @package darkdrim\emojionearea
  */
 class EmojiOneAsset extends \yii\web\AssetBundle
 {

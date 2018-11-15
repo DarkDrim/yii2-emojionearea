@@ -1,10 +1,10 @@
 <?php
 
-namespace mervick\emojionearea;
+namespace darkdrim\emojionearea;
 
 /**
  * Class Asset
- * @package mervick\emojionearea
+ * @package darkdrim\emojionearea
  */
 class Asset extends \yii\web\AssetBundle
 {
@@ -15,7 +15,7 @@ class Asset extends \yii\web\AssetBundle
 
     public $depends = [
         'yii\web\JqueryAsset',
-        'mervick\emojionearea\EmojiOneAsset',
+        'darkdrim\emojionearea\EmojiOneAsset',
     ];
 
     /**

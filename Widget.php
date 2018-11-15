@@ -1,6 +1,6 @@
 <?php
 
-namespace mervick\emojionearea;
+namespace darkdrim\emojionearea;
 
 use Yii;
 use yii\helpers\Html;
@@ -9,7 +9,7 @@ use yii\widgets\InputWidget;
 
 /**
  * Class Widget
- * @package mervick\emojionearea
+ * @package darkdrim\emojionearea
  */
 class Widget extends InputWidget
 {
